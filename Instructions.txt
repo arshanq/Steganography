@@ -1,0 +1,5 @@
+Instructions
+
+This program consists of two parts:
+1. Encoder ---- To run encoder, run chooseImage.java 
+2. Decoder ---- To run decoder, run Decoder.java                                
